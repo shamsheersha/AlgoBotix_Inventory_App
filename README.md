@@ -130,7 +130,7 @@ AlgoBotix Inventory Manager is a comprehensive Android application designed for 
 
 ```bash
 # If using Git
-git clone https://github.com/yourusername/algobotix-inventory.git
+git clone https://github.com/shamsheersha/algobotix-inventory.git
 cd algobotix-inventory
 
 # Or extract the ZIP file to your desired location
@@ -347,6 +347,10 @@ Output: `build/app/outputs/bundle/release/app-release.aab`
 ---
 
 ## 📸 Screenshots
+![alt text](<WhatsApp Image 2026-01-15 at 9.20.24 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-01-15 at 9.20.24 PM-1.jpeg>)
+![alt text](<WhatsApp Image 2026-01-15 at 9.20.25 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2026-01-15 at 9.20.25 PM (1)-1.jpeg>)
 
 ### Home Screen
 - Modern card-based layout
